@@ -18,7 +18,7 @@ include 'C:\xampp\htdocs\GVPCEW\header.php';
         <h1>Facilities</h1>
     </header>
     <main>
-        <a href="allfacilities.html#lab" class="facility" id="labLink">
+        <a href="allfacilities.php#lab" class="facility" id="labLink">
             <h2>Lab Facilities</h2>
             <div class="images">
                 <img src="https://www.gvpcew.ac.in/images/facilities/cselab-1.jpg" alt="Lab Image 1">
@@ -26,7 +26,7 @@ include 'C:\xampp\htdocs\GVPCEW\header.php';
                 <img src="https://www.gvpcew.ac.in/images/facilities/cselab-3.jpg" alt="Lab Image 3">
             </div>
         </a>
-        <a href="allfacilities.html#classroom" class="facility" id="classroomLink">
+        <a href="allfacilities.php#classroom" class="facility" id="classroomLink">
             <h2>Classroom Facilities</h2>
             <div class="images">
                 <img src="https://www.gvpcew.ac.in/images/facilities/101.jpg" alt="Classroom Image 1">
@@ -34,7 +34,7 @@ include 'C:\xampp\htdocs\GVPCEW\header.php';
                 <img src="https://www.gvpcew.ac.in/images/facilities/104.jpg" alt="Classroom Image 3">
             </div>
         </a>
-        <a href="allfacilities.html#library" class="facility" id="libraryLink">
+        <a href="allfacilities.phpo#library" class="facility" id="libraryLink">
             <h2>Library Facilities</h2>
             <div class="images">
                 <img src="https://www.gvpcew.ac.in/images/facilities/Library-1.jpg" alt="Library Image 1">
@@ -42,7 +42,7 @@ include 'C:\xampp\htdocs\GVPCEW\header.php';
                 <img src="https://www.gvpcew.ac.in/images/facilities/Library-3.jpg" alt="Library Image 3">
             </div>
         </a>
-        <a href="allfacilities.html#bus" class="facility" id="busLink">
+        <a href="allfacilities.php#bus" class="facility" id="busLink">
             <h2>Bus Facilities</h2>
             <div class="images">
                 <img src="https://www.gvpcew.ac.in/images/facilities/Library-1.jpg" alt="Bus Image 1">
@@ -50,7 +50,7 @@ include 'C:\xampp\htdocs\GVPCEW\header.php';
                 <img src="https://www.gvpcew.ac.in/images/facilities/Library-3.jpg" alt="Bus Image 3">
             </div>
         </a>
-        <a href="allfacilities.html#hostel" class="facility" id="hostelLink">
+        <a href="allfacilities.php#hostel" class="facility" id="hostelLink">
             <h2>Hostel Facilities</h2>
             <div class="images">
                 <img src="https://www.gvpcew.ac.in/images/facilities/Library-1.jpg" alt="Hostel Image 1">
@@ -58,7 +58,7 @@ include 'C:\xampp\htdocs\GVPCEW\header.php';
                 <img src="https://www.gvpcew.ac.in/images/facilities/Library-3.jpg" alt="Hostel Image 3">
             </div>
         </a>
-        <a href="allfacilities.html#sports" class="facility" id="sportsLink">
+        <a href="allfacilities.php#sports" class="facility" id="sportsLink">
             <h2>Sports Facilities</h2>
             <div class="images">
                 <img src="https://www.gvpcew.ac.in/images/facilities/Library-1.jpg" alt="Sports Image 1">
